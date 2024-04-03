@@ -27,19 +27,16 @@ body {
   padding: 15px;
 }
 
-.top {
+.header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-}
-
-.header {
   font-weight: bold;
   font-size: 18px;
+  margin-bottom: 5px;
 }
 
 .text {
-  margin-top: 5px;
   margin-bottom: 15px;
 }
 
